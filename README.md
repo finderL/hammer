@@ -1,8 +1,9 @@
-# hammer-一个支持多种协议的暴力破解攻击
-##Author:yixuanzi
-##Data:2015-12-6
-##Email:yeying0311@126.com
-##help
+#hammer-一个支持多种协议的暴力破解攻击
+###Author:yixuanzi
+###Data:2015-12-6
+###Email:yeying0311@126.com
+###Version:1.1.0
+```
     hammer.py a brute force tool for many auth server
     hammer.py {-u,-p,-s}[-d,-h]
     -u FILE ,user username dict
@@ -14,7 +15,8 @@
     --succauth ,flag for succssfuly auth
     --failauth ,flag for fail auth
     -h,--help,display the help message
-====
+```
+--------
 Example
 <pre>
 login.txt 登录数据包
